@@ -4,3 +4,12 @@ body {
   background-color: #FFC0CB;
   font-family: 'Oxygen', sans-serif;
 }
+
+.image{
+  border: 2px solid black;
+}
+
+.image-info {
+  background-color: black;
+  padding: 5px;
+}
